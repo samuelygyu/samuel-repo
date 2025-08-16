@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-[Tool]({{ site.internal_links.tool | relative_url }})
-[Algorithm]({{ site.internal_links.algorithm | relative_url }})
